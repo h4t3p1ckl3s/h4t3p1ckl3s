@@ -23,8 +23,8 @@
 <tr>
 <td>
 
-🎓 I'm a sophomore majoring in Information Security student at PTIT-HCM  
-🔭 I'm currently working on: DFIR, Malware Analysis and Threat Intelligence concepts  
+🎓 I'm a sophomore majoring in Information Security at PTIT-HCM  
+🔭 I'm currently working on: DFIR, Malware Analysis, Threat Intelligence and Blue Team concepts  
 ⚡ Fun fact about me: I like sporty activities, and martial arts :>
 
 </td>
