@@ -19,9 +19,20 @@
 
 ## 🧠 About Me
 
-- 🎓 I'm a sophomore majoring in Information Security student at PTIT-HCM
-- 🔭 I’m currently working on: DFIR, Malware Anlysis and Threat Intelligence concept
-- ⚡ Fun fact about me: I like sporty activities, and martial arts :>
+<table>
+<tr>
+<td>
+
+🎓 I'm a sophomore majoring in Information Security student at PTIT-HCM  
+🔭 I'm currently working on: DFIR, Malware Analysis and Threat Intelligence concepts  
+⚡ Fun fact about me: I like sporty activities, and martial arts :>
+
+</td>
+<td>
+  <img height="150" src="https://github-readme-utils.vercel.app/api/gif/anime" style="border-radius: 8px;" />
+</td>
+</tr>
+</table>
 
 ---
 
