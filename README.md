@@ -3,12 +3,12 @@
 <div align="center">
   <div style="display: flex; gap: 20px;">
   <!-- GitHub Stats (Left) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=h4t3p1ckl3s&show_icons=true&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=h4t3p1ckl3s&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
   
   <!-- Streak Stats (Right) -->
-  <img src="https://streak-stats.demolab.com?user=h4t3p1ckl3s&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=h4t3p1ckl3s&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
-  <img src="https://github-profile-trophy.vercel.app?username=h4t3p1ckl3s&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=h4t3p1ckl3s&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph-dark.svg">
