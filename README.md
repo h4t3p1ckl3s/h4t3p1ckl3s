@@ -1,7 +1,10 @@
 <h1 align="center">👾 nh0kt1g3r12</h1>
 <h3 align="center">DFIR | Malware Analysis | Threat Intelligence </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
-<img align="center" alt="Hacking" width="600" src="https://giffiles.alphacoders.com/174/1744.gif"
+<table>
+<tr>
+<td>
+<img align="right" alt="Hacking" width="600" src="https://giffiles.alphacoders.com/174/1744.gif"
 <div align="center">
   <div style="display: flex; gap: 20px;">
   <!-- GitHub Stats (Left) -->
@@ -12,6 +15,9 @@
 </div>
   <img src="https://github-profile-trophy.vercel.app?username=h4t3p1ckl3s&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+</td>
+</tr>
+</table>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph.svg">
