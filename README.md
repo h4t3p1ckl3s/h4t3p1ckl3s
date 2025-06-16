@@ -2,7 +2,7 @@
 <h3 align="center">DFIR | Malware Analysis | Threat Intelligence </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
 <img align="right" alt="Hacking" width="600" src="https://giffiles.alphacoders.com/174/1744.gif"
-<div align="center">
+<div align="left">
   <div style="display: flex; gap: 20px;">
   <!-- GitHub Stats (Left) -->
   <img src="https://github-readme-stats.vercel.app/api?username=h4t3p1ckl3s&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
