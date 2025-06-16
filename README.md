@@ -1,7 +1,7 @@
 <h1 align="center">👾 nh0kt1g3r12</h1>
 <h3 align="center">DFIR | Malware Analysis | Threat Intelligence </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
-<img align="right" alt="Hacking" width="450" src="https://giffiles.alphacoders.com/174/1744.gif"
+<img align="right" alt="Hacking" width="450" height="450" src="https://giffiles.alphacoders.com/174/1744.gif"
 <div align="center">
   <div style="display: flex; gap: 20px;">
   <!-- GitHub Stats (Left) -->
