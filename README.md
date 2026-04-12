@@ -1,22 +1,8 @@
+<p align="center"><img src="https://media1.tenor.com/m/fAS0_kCyse8AAAAd/chou-kaguya-hime-kaguya-hime.gif" width="800px" /></p>
+<h1 align="center" style="margin-bottom: 0;">
 <h1 align="center">👾 nh0kt1g3r12</h1>
 <h3 align="center">DFIR | Malware Analysis | Threat Intelligence </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
-<img align="right" alt="Hacking" width="465" src="https://giffiles.alphacoders.com/174/1744.gif"
-<div align="center">
-  <div style="display: flex; gap: 20px;">
-  <!-- GitHub Stats (Left) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=h4t3p1ckl3s&show_icons=true&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Stats" />
-  
-  <!-- Streak Stats (Right) -->
-  <img src="https://streak-stats.demolab.com?user=h4t3p1ckl3s&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-  <img src="https://github-profile-trophy.vercel.app?username=h4t3p1ckl3s&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph.svg">
-</picture>
+
 ---
 
 ## 🧠 About Me
@@ -25,17 +11,32 @@
 <tr>
 <td>
 
-🎓 I'm a sophomore majoring in Information Security at PTIT-HCM  
+🎓 ~~I'm a sophomore majoring in Information Security at PTIT-HCM~~ I fucking dropped out  
 🔭 I'm currently working on: DFIR, Malware Analysis, Threat Intelligence and Blue Team concepts  
 ⚡ Fun fact about me: I like sporty activities, and martial arts. Btw I do OSINT in my freetime especially SOCMint :3 
 
 </td>
+
 <td>
-  <img height="150" src="https://github-readme-utils.vercel.app/api/gif/anime" style="border-radius: 8px;" />
+  <img height="150" src="https://media1.tenor.com/m/EGLtrVbpk8wAAAAC/chiikawa-cute.gif" style="border-radius: 8px;" />
 </td>
+
 </tr>
 </table>
+</div>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4t3p1ckl3s&label=Profile%20views&color=0e75b6&style=flat" alt="nh0kt1g3r12" /> </p>
+<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=h4t3p1ckl3s&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
+</p>
 
+  <div style="display: flex; gap: 20px;">
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/h4t3p1ckl3s/h4t3p1ckl3s/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🛠️ Tools & Languages
